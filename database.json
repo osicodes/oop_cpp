@@ -1,0 +1,26 @@
+{
+    "electricity": [
+        {
+            "id": "0012345",
+            "name": "Sadaf",
+            "bill": "373"
+        },
+        {
+            "id": "0023456",
+            "name": "Mermet",
+            "bill": "1845"
+        }
+    ],
+    "water": [
+        {
+            "id": "12345",
+            "name": "Sadaf",
+            "bill": "750"
+        },
+        {
+            "id": "00089",
+            "name": "Mermet",
+            "bill": "345"
+        }
+    ]
+}
